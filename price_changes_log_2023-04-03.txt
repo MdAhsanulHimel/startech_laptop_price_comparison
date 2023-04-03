@@ -1,0 +1,181 @@
+The prices of the following products have changed
+=========
+Increased:
+- Link https://www.startech.com.bd/lenovo-ideapad-1-15ada7-ryzen-3-fhd-laptop 
+	Price increased: 2500.0 Taka
+	Previous price: 52500.0 Taka, Increased price: 55000.0 Taka
+
+- Link https://www.startech.com.bd/asus-vivobook-15-x515ea-i3-11th-gen-fhd-laptop 
+	Price increased: 1000.0 Taka
+	Previous price: 59500.0 Taka, Increased price: 60500.0 Taka
+
+=========
+Decreased:
+- Link https://www.startech.com.bd/avita-essential-14-celeron-n4020-256gb-ssd-laptop-matt-white 
+	Price decreased: 1500.0 Taka
+	Previous price: 29000.0 Taka, Decreased price: 27500.0 Taka
+
+- Link https://www.startech.com.bd/doel-freedom-a9-amd-a9-9425-laptop 
+	Price decreased: 3000.0 Taka
+	Previous price: 29999.0 Taka, Decreased price: 26999.0 Taka
+
+- Link https://www.startech.com.bd/toshiba-dynabook-satellite-pro-c40-g-109-laptop 
+	Price decreased: 800.0 Taka
+	Previous price: 30500.0 Taka, Decreased price: 29700.0 Taka
+
+- Link https://www.startech.com.bd/acer-travelmate-tmb-311-31-c3cd-celeron-n4020-aptop 
+	Price decreased: 1500.0 Taka
+	Previous price: 33500.0 Taka, Decreased price: 32000.0 Taka
+
+- Link https://www.startech.com.bd/toshiba-dynabook-satellite-pro-c40-g-11i-laptop 
+	Price decreased: 1400.0 Taka
+	Previous price: 44900.0 Taka, Decreased price: 43500.0 Taka
+
+- Link https://www.startech.com.bd/acer-aspire-3-a315-23-ryzen-3-3250u-8gb-ram-fhd-laptop 
+	Price decreased: 2500.0 Taka
+	Previous price: 47000.0 Taka, Decreased price: 44500.0 Taka
+
+- Link https://www.startech.com.bd/lenovo-ideapad-slim-3i-core-i3-10th-gen-fhd-laptop 
+	Price decreased: 1000.0 Taka
+	Previous price: 47500.0 Taka, Decreased price: 46500.0 Taka
+
+- Link https://www.startech.com.bd/acer-aspire-3-a315-58-core-i3-11th-gen-fhd-laptop 
+	Price decreased: 3500.0 Taka
+	Previous price: 53000.0 Taka, Decreased price: 49500.0 Taka
+
+- Link https://www.startech.com.bd/acer-travelmate-tmp215-53-core-i3-11th-gen-laptop 
+	Price decreased: 6500.0 Taka
+	Previous price: 55000.0 Taka, Decreased price: 48500.0 Taka
+
+- Link https://www.startech.com.bd/asus-expertbook-b1-b1500ceae-i3-11th-gen-laptop 
+	Price decreased: 2000.0 Taka
+	Previous price: 59000.0 Taka, Decreased price: 57000.0 Taka
+
+- Link https://www.startech.com.bd/acer-travelmate-tmp214-53-core-i3-11th-gen-fhd-laptop 
+	Price decreased: 5500.0 Taka
+	Previous price: 60000.0 Taka, Decreased price: 54500.0 Taka
+
+- Link https://www.startech.com.bd/asus-vivobook-15-x515ja-core-i5-10th-gen-fhd-laptop 
+	Price decreased: 1500.0 Taka
+	Previous price: 60000.0 Taka, Decreased price: 58500.0 Taka
+
+- Link https://www.startech.com.bd/hp-15s-eq2171au-ryzen-3-5300u-laptop 
+	Price decreased: 3500.0 Taka
+	Previous price: 61000.0 Taka, Decreased price: 57500.0 Taka
+
+- Link https://www.startech.com.bd/hp-15s-fq5786tu-core-i3-12th-gen-laptop 
+	Price decreased: 1200.0 Taka
+	Previous price: 63700.0 Taka, Decreased price: 62500.0 Taka
+
+- Link https://www.startech.com.bd/acer-aspire-3-a315-58-core-i5-11th-gen-512gb-ssd-laptop 
+	Price decreased: 3500.0 Taka
+	Previous price: 66000.0 Taka, Decreased price: 62500.0 Taka
+
+- Link https://www.startech.com.bd/hp-15s-eq2690au-ryzen-5-5500u-laptop 
+	Price decreased: 2000.0 Taka
+	Previous price: 68000.0 Taka, Decreased price: 66000.0 Taka
+
+- Link https://www.startech.com.bd/asus-vivobook-15-x1502za-core-i3-12th-gen-laptop 
+	Price decreased: 3490.0 Taka
+	Previous price: 69990.0 Taka, Decreased price: 66500.0 Taka
+
+- Link https://www.startech.com.bd/hp-15s-eq3234au-ryzen-5-5625u-laptop 
+	Price decreased: 2000.0 Taka
+	Previous price: 70000.0 Taka, Decreased price: 68000.0 Taka
+
+- Link https://www.startech.com.bd/asus-expertbook-p1-p1412cea-core-i5-11th-gen-laptop 
+	Price decreased: 5500.0 Taka
+	Previous price: 71000.0 Taka, Decreased price: 65500.0 Taka
+
+- Link https://www.startech.com.bd/asus-vivobook-15-x515ea-core-i5-11th-gen-8-gb-ram-15-6-fhd-laptop 
+	Price decreased: 2500.0 Taka
+	Previous price: 76500.0 Taka, Decreased price: 74000.0 Taka
+
+- Link https://www.startech.com.bd/hp-pavilion-15-eh1890au-ryzen-5-fhd-laptop 
+	Price decreased: 3000.0 Taka
+	Previous price: 77000.0 Taka, Decreased price: 74000.0 Taka
+
+- Link https://www.startech.com.bd/lenovo-ideapad-slim-3i-15itl-i5-11th-gen-fhd-laptop 
+	Price decreased: 3400.0 Taka
+	Previous price: 79900.0 Taka, Decreased price: 76500.0 Taka
+
+- Link https://www.startech.com.bd/hp-15s-fq5620tu-core-i5-12th-gen-laptop 
+	Price decreased: 2900.0 Taka
+	Previous price: 80900.0 Taka, Decreased price: 78000.0 Taka
+
+- Link https://www.startech.com.bd/dell-inspiron-15-3520-core-i5-fhd-laptop 
+	Price decreased: 2000.0 Taka
+	Previous price: 81000.0 Taka, Decreased price: 79000.0 Taka
+
+- Link https://www.startech.com.bd/xiaomi-notebook-pro-i5-11th-gen-laptop 
+	Price decreased: 4000.0 Taka
+	Previous price: 84000.0 Taka, Decreased price: 80000.0 Taka
+
+- Link https://www.startech.com.bd/dell-inspiron-15-3511-core-i5-11th-gen-2gb-graphics-laptop 
+	Price decreased: 3000.0 Taka
+	Previous price: 84500.0 Taka, Decreased price: 81500.0 Taka
+
+- Link https://www.startech.com.bd/hp-probook-440-g8-core-i5-11th-gen-hd-laptop 
+	Price decreased: 4500.0 Taka
+	Previous price: 85000.0 Taka, Decreased price: 80500.0 Taka
+
+- Link https://www.startech.com.bd/hp-probook-450-g8-i5-512gb-ssd-fhd-laptop 
+	Price decreased: 3000.0 Taka
+	Previous price: 87000.0 Taka, Decreased price: 84000.0 Taka
+
+- Link https://www.startech.com.bd/acer-swift-5-sf514-55ta-11th-gen-fhd-touch-laptop 
+	Price decreased: 2000.0 Taka
+	Previous price: 78000.0 Taka, Decreased price: 76000.0 Taka
+
+- Link https://www.startech.com.bd/asus-expertbook-b3-flip-b3402fea-core-i5-11th-gen-touch-laptop 
+	Price decreased: 11000.0 Taka
+	Previous price: 90000.0 Taka, Decreased price: 79000.0 Taka
+
+- Link https://www.startech.com.bd/acer-aspire-7-a715-42g-r2ne-ryzen-5-5500u-gaming-laptop 
+	Price decreased: 5000.0 Taka
+	Previous price: 91000.0 Taka, Decreased price: 86000.0 Taka
+
+- Link https://www.startech.com.bd/hp-probook-455-g9-ryzen-5-5625u-laptop 
+	Price decreased: 7500.0 Taka
+	Previous price: 92000.0 Taka, Decreased price: 84500.0 Taka
+
+- Link https://www.startech.com.bd/hp-probook-440-g9-core-i5-12th-gen-laptop 
+	Price decreased: 2500.0 Taka
+	Previous price: 92000.0 Taka, Decreased price: 89500.0 Taka
+
+- Link https://www.startech.com.bd/asus-expertbook-p1-p1512cea-core-i7-11th-gen-laptop 
+	Price decreased: 6500.0 Taka
+	Previous price: 93000.0 Taka, Decreased price: 86500.0 Taka
+
+- Link https://www.startech.com.bd/dell-inspiron-15-3520-core-i7-fhd-laptop 
+	Price decreased: 1500.0 Taka
+	Previous price: 93500.0 Taka, Decreased price: 92000.0 Taka
+
+- Link https://www.startech.com.bd/msi-gf63-thin-11sc-core-i5-11th-gen-fhd-gaming-laptop 
+	Price decreased: 5100.0 Taka
+	Previous price: 96000.0 Taka, Decreased price: 90900.0 Taka
+
+- Link https://www.startech.com.bd/msi-gf63-thin-11sc-core-i5-11th-gen-laptop 
+	Price decreased: 4999.0 Taka
+	Previous price: 90999.0 Taka, Decreased price: 86000.0 Taka
+
+- Link https://www.startech.com.bd/asus-zenbook-14-um425ua-ryzen-5-5500u-laptop 
+	Price decreased: 5000.0 Taka
+	Previous price: 100000.0 Taka, Decreased price: 95000.0 Taka
+
+- Link https://www.startech.com.bd/hp-pavilion-15-eg2072tu-core-i7-12th-gen-laptop 
+	Price decreased: 3500.0 Taka
+	Previous price: 103000.0 Taka, Decreased price: 99500.0 Taka
+
+- Link https://www.startech.com.bd/apple-macbook-air-13-3-inch-m1-chip-laptop-256gb-ssd 
+	Price decreased: 5000.0 Taka
+	Previous price: 113000.0 Taka, Decreased price: 108000.0 Taka
+
+- Link https://www.startech.com.bd/asus-expertbook-b3-flip-b3402fea-i7-11th-gen-laptop 
+	Price decreased: 3000.0 Taka
+	Previous price: 103500.0 Taka, Decreased price: 100500.0 Taka
+
+- Link https://www.startech.com.bd/msi-gf63-thin-11uc-core-i5-11th-gen-gaming-laptop 
+	Price decreased: 6500.0 Taka
+	Previous price: 116500.0 Taka, Decreased price: 110000.0 Taka
+
